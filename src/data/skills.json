@@ -1,0 +1,36 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Aprender Tecnologias",
+      "amount": "100"
+    },
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "PHP",
+      "amount": "90"
+    },
+    { "id": 3, "skillName": "Javascript", "amount": "90" },
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "75"
+    },
+    {
+      "id": 5,
+      "skillName": "API REST",
+      "amount": "85"
+    },
+    { "id": 6, "skillName": "Docker", "amount": "80" },
+    {
+      "id": 7,
+      "skillName": ".NET",
+      "amount": "75"
+    }
+  ]
+}

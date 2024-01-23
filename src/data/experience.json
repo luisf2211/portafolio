@@ -1,0 +1,36 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://sidesys.com/",
+      "company": "Sidesys IT Solutions",
+      "img": "sidesys",
+      "title": "Soporte técnico & Gestor de Proyectos",
+      "dateFrom": "Enero 2021",
+      "dateTo": "Febrero 2022",
+      "info": [
+          ],
+      "stack": ["React", ".NET", "Javascript", "Docker", "Windows Server", "Microservicios"],
+      "logoheight": 30,
+      "colourPrimary": "linear-gradient(to bottom, #3B4353, #3B4353)",
+      "colourSecondary": "linear-gradient(to bottom, #FFF, #FFF)"
+    },
+   
+    {
+      "id": 1,
+      "link": "https://www.provintl.com/en/",
+      "company": "Pro V International",
+      "img": "prov_logo",
+      "title": "Salesforce Developer",
+      "dateFrom": "Febrero 2022",
+      "dateTo": "Septiembre 2022",
+      "info": [
+        
+      ],
+      "stack": ["React", "Salesforce Administrator", "Java", "APEX", "Javascript", "DevOps"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #3B4353, #3B4353)",
+      "colourSecondary": "linear-gradient(to bottom, #FFF, #FFF)"
+    }
+  ]
+}
